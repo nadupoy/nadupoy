@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Grace Nadupoy Sampao
-- 👀 I’m interested in full stack web development
+- 👀 I’m interested in front-end web development
 - 🌱 I’m currently learning HTML, CSS and JavaScript
 - 💞️ I’m looking to collaborate on web development projects
 
