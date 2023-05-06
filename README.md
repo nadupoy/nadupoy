@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Grace Nadupoy Sampao
-- 👀 I’m interested in front-end web development
-- 🌱 I’m currently learning HTML, CSS and JavaScript
-- 💞️ I’m looking to collaborate on web development projects
+- 👀 I’m interested in web and application development
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on projects that will increase my programming knowledge and Python skills
 
 <!---
 nadupoy/nadupoy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
