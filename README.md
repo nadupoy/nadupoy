@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Grace Nadupoy Sampao
-- 👀 I’m interested in web and application development
-- 🌱 I’m currently learning JavaScript
+- 👀 I’m interested in art, mathematics and programming.
+- 🌱 I’m currently working with JavaScript.
 - 💞️ I’m looking to collaborate on JavaScript projects.
 
 <!---
